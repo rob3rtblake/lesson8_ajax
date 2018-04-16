@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+03/16/2018
 
 ### Student Name:  
-(First and Last Name)
+Robert Blake
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 8 Ajax
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://rob3rtblake.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX
+2. DOM
+3. APIS
